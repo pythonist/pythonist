@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm pythonist</h1>
+<h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">I am still exploring the vastness of big data and machine learning technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonist&label=Profile%20views&color=0e75b6&style=flat" alt="pythonist" /> </p>
