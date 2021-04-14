@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pythonist/pythonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm pythonist</h1>
 <h3 align="center">I am still exploring the vastness of big data and machine learning technologies</h3>
